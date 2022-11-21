@@ -31,7 +31,7 @@ jobs:
           #- 'aramcon_badge_2019'
           #- 'aramcon2_badge'
           #- 'arcade_feather_nrf52840_express'
-          - 'arduino_nano_33_ble'
+          #- 'arduino_nano_33_ble'
           #- 'bast_ble'
           #- 'bluemicro_nrf52833'
           #- 'bluemicro_nrf52840'
